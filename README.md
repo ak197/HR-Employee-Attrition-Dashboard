@@ -10,6 +10,7 @@ Analyze attrition patterns for 1,470 employees to identify high-risk departments
 - Sales Representative role: 39.76% attrition vs company avg 16.12%
 - Sales Dept paradox: Highest salary 7K but 20.6% attrition vs R&D 13.9%
 - Built a data model with relationships between KPI tables
+- DAX: Created Retention Rate and Attrition Risk Score measures
 
 ## Files
 - `HR_Employee_Attrition_Dashboard.pbix` - Interactive Power BI dashboard
