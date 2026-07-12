@@ -11,12 +11,13 @@ Analyze attrition patterns for 1,470 employees to identify high-risk departments
 - Sales Dept paradox: Highest salary 7K but 20.6% attrition vs R&D 13.9%
 - Built a data model with relationships between KPI tables
 - DAX: Created Retention Rate and Attrition Risk Score measures
-- * Delivered 8 KPIs via SQL: Headcount, Attrition by Dept/Role/Gender/Age/Tenure, Avg Salary analysis
+- Delivered 8 KPIs via SQL: Headcount, Attrition by Dept/Role/Gender/Age/Tenure, Avg Salary analysis
 
 ## Files
 - `HR_Employee_Attrition_Dashboard.pbix` - Interactive Power BI dashboard
 - `HR_Employee_Attrition_Dashboard.pdf` - PDF export
 - `FULL_DASHBOARD_HR_ATTRITION.png` - Dashboard screenshot
+- `HR_Attrition_SQL/` - 8 KPI SQL queries + output screenshots
 - `Ankita_Kundu_DataAnalyst.pdf` - Resume
 
 Contact: ankitakundu1190@gmail.com
